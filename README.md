@@ -1,5 +1,6 @@
 # Cloud-Storage-Comparison
-
+Link to the video
+https://youtu.be/CXubAoAkDuQ
 
 Amazon Web Services (AWS) - A Deep Dive
 
